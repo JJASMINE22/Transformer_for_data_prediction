@@ -20,7 +20,7 @@
 
 ## 模型结构
 Transformer  
-![image]()
+![image](https://github.com/JJASMINE22/Transformer_for_data_prediction/blob/main/structure/structure.png)
 
 ## 注意事项
 1. 时序数据推理，删除了标准Transformer的位置掩码、位置编码、前馈层等机制
@@ -41,13 +41,13 @@ Transformer
 
 ## 预测效果
 sequence_1  
-![image]()  
+![image](https://github.com/JJASMINE22/Transformer_for_data_prediction/blob/main/sample/prediction_seq0.jpg)  
 
 sequence_2  
-![image]() 
+![image](https://github.com/JJASMINE22/Transformer_for_data_prediction/blob/main/sample/prediction_seq1.jpg) 
 
 sequence_3  
-![image]()  
+![image](https://github.com/JJASMINE22/Transformer_for_data_prediction/blob/main/sample/prediction_seq2.jpg)  
 
 ## 参考资料
 1. https://arxiv.org/pdf/1706.03762.pdf  
